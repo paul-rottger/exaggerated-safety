@@ -1,5 +1,8 @@
 # XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models
 
+<a href="https://aclanthology.org/2024.naacl-long.301/"><img src="https://img.shields.io/badge/📝-Paper-b31b1b"></a>
+<a href="https://huggingface.co/datasets/Paul/XSTest"><img src="https://img.shields.io/badge/🤗-Data-yellow"></a>
+
 This repo contains data and code for our NAACL 2024 paper "[XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models](https://aclanthology.org/2024.naacl-long.301/)".
 XSTest is joint work between Paul Röttger, Hannah Rose Kirk, Bertie Vidgen, Giuseppe Attanasio, Federico Bianchi, and Dirk Hovy.
 
